@@ -18,7 +18,7 @@ public class Main {
             type = new Roadways();
         }
 
-        System.out.println("The output transport media is :- ");
+        System.out.println("The output transportion media is :- ");
         System.out.println(type.transportMedia());
     }
 }
