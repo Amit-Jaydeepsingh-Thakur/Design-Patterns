@@ -7,6 +7,6 @@ public class Main {
         Movable buggati = new Buggati();
         MovableAdapterImplementation adpater = new MovableAdapterImplementation(buggati);
 
-        System.out.println(adpater.getConvertedSpeed());
+        System.out.println("The converted speeed" + " " + adpater.getConvertedSpeed());
     }
 }
